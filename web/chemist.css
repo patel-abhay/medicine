@@ -1,0 +1,19 @@
+table{
+  font-size: 25px;
+  margin-bottom: 150;
+  font-family: serif
+      
+}
+
+ body
+            {
+            display: flex;
+            justify-content: center;
+            align-items: center;    
+            }
+            
+      h1{
+                font-family: arial;
+                text-shadow:5px 5px 4px gray;
+            }
+
